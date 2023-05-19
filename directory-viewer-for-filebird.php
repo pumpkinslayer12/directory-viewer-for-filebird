@@ -2,11 +2,19 @@
 
 /**
  * Plugin Name: Directory Viewer for Filebird
+ * 
+ * Plugin URI: https://github.com/pumpkinslayer12/directory-viewer-for-filebird
  *
  * Description: A plugin to enable directory and file viewing within the FileBird plugin using a shortcode.
  *
+ * Author: pumpkinslayer12
+ * 
+ * Author URI: https://https://github.com/pumpkinslayer12
+ * 
  * Version: 1.0
  *
+ * Text Domain: directory-viewer-for-filebird
+ * 
  * License: GPL v3 or later
  *
  * License URI: https://www.gnu.org/licenses/gpl-3.0.html

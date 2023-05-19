@@ -13,6 +13,8 @@ This plugin is a directory viewer for the FileBird plugin that allows you to vie
 
 Directory Viewer for Filebird enhances the functionality of the FileBird WordPress plugin by allowing users to view all directories and files using a simple shortcode. It requires FileBird to be installed and activated on your WordPress site.
 
+This plugin is not affiliated with Filebird or their team in any way. This project just extends what's already a really good tool.
+
 == Installation ==
 
 1. Upload the plugin files to the `/wp-content/plugins/directory-viewer-for-filebird` directory, or install the plugin through the WordPress plugins screen directly.
@@ -37,6 +39,11 @@ The shortcode is `[directory_viewer_filebird folder_id=0]`. You can change the `
 = How many shortcodes can be used on one page? =
 
 Currently only one shortcode can be used, per page. This limitation will be addressed in subsequent releases.
+
+== Screenshots ==
+
+1. Front end display.
+2. Shortcode usage.
 
 == Changelog ==
 
