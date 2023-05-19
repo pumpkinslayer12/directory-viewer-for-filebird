@@ -1,0 +1,33 @@
+/* Custom folder icon */
+.folder-icon.jstree-themeicon {
+    background-image: url('folder.png');
+    background-size: contain;
+}
+
+/* Custom file icon */
+.file-icon.jstree-themeicon {
+    background-image: url('file.png');
+    background-size: contain;
+}
+
+.image-icon.jstree-themeicon {
+    background-image: url('image.png');
+    background-size: contain;
+}
+
+.pdf-icon.jstree-themeicon {
+    background-image: url('pdf.png');
+    background-size: contain;
+}
+
+
+.video-icon.jstree-themeicon {
+    background-image: url('video.png');
+    background-size: contain;
+}
+
+
+.dvff-jstree-search {
+    font-size: 16px;
+    padding: 15px
+}
