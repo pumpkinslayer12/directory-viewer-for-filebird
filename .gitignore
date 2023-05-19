@@ -1,0 +1,34 @@
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+# Local History for <a href="https://www.jcchouinard.com/python-with-vscode/">Visual Studio Code</a>
+.history/
+ 
+# Common credential files
+**/credentials.json
+**/client_secrets.json
+**/client_secret.json
+*creds*
+*.dat
+*password*
+*.httr-oauth*
+ 
+# Private Node Modules
+node_modules/
+creds.js
+ 
+# Private Files
+*.json
+*.csv
+*.csv.gz
+*.tsv
+*.tsv.gz
+*.xlsx
+ 
+ 
+# Mac/OSX
+.DS_Store
